@@ -14,3 +14,9 @@
 01_dly_link_lists.c - A program with basic functions for working with a doubly linked list - int input, int output.
 
 01_bst.c - A program with basic functions for working with a binary search tree - int input, schematic tree with nodes whose values are of type int output.
+
+01_width_bypass.c - A program for traversing a tree in width - int input, int output.
+
+02_direct_bypass.c - Program for direct tree traversal - int input, int output.
+
+03_reverse_bypass.c - Program for reverse tree traversal - int input, int output.
