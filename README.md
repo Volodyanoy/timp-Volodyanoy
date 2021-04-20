@@ -12,3 +12,5 @@
 01_lists.c - A program with basic functions for working with a singly linked list - The format of the input and output data is slightly unknown.
 
 01_dly_link_lists.c - A program with basic functions for working with a doubly linked list - int input, int output.
+
+01_bst.c - A program with basic functions for working with a binary search tree - int input, schematic tree with nodes whose values are of type int output.
